@@ -1,6 +1,6 @@
-# djmisha-djmisha
+# djmisha
 
-👋 Misha | Lead Software Engineer | Full Stack & Engineering Leadership
+👋 Misha Osinovskiy | Lead Software Engineer | Full Stack & Engineering Leadership
 
 ### **🚀 Current Focus & Identity**
 
